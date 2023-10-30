@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+I have not created any of the notebooks. All credits goes to <a href= "https://github.com/pnugues/ilppp/tree/master">pnugues </a> . I just provide solution to the excersices. 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
